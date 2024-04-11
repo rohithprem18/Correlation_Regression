@@ -2,8 +2,8 @@
 
 ### Ex no: 3
 ### Date:
-### Name: Vikaash K S
-### Register number:212223240179
+### Name: ROHITH PREM S
+### Register number:212223040172
 ## Aim : 
 
 To analyse given data using coeffificient of correlation and regression line
@@ -26,8 +26,10 @@ If y represents the dependent variable and x the independent variable, this rela
 
 ## Program :
 ```
-DEVELOPED BY : Vikaash K S
-REGISTER NO  : 212223240179
+DEVELOPED BY : ROHITH PREM S
+REGISTER NO  : 212223040172
+```
+```
 import numpy as np
 import math
 import matplotlib.pyplot as plt
